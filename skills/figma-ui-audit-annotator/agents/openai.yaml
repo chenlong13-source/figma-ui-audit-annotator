@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma UI Audit Annotator"
+  short_description: "Audit live screenshots against Figma design frames."
+  default_prompt: "Use $figma-ui-audit-annotator to compare a design frame and a live screenshot frame, annotate mismatches, and summarize the findings."
